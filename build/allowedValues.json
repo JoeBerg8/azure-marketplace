@@ -114,6 +114,7 @@
     ["Standard_B2ms", 2, "Standard", false],
     ["Standard_B4ms", 4, "Standard", false],
     ["Standard_B8ms", 8, "Standard", false],
+    ["Standard_B20ms", 20, "Standard", false]
     
     ["Standard_D1", 4, "Standard", false],
     ["Standard_D2", 8, "Standard", false],
